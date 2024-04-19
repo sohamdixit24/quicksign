@@ -46,10 +46,10 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-[Your Name/Your Organization]
+Soham Dixit
 
 ## Contact
 
-For any inquiries or support, please contact [Your Email Address].
+For any inquiries or support, please contact sohamdixit24@gmail.com.
 
 
